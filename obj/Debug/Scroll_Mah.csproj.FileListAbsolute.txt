@@ -1,0 +1,30 @@
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\obj\Debug\Scroll_Mah.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\obj\Debug\App.g.cs
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\obj\Debug\Scroll_Mah_MarkupCompile.cache
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\bin\Debug\Scroll_Mah.exe.config
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\bin\Debug\Scroll_Mah.exe
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\bin\Debug\Scroll_Mah.pdb
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\obj\Debug\Scroll_Mah_MarkupCompile.lref
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\obj\Debug\MainWindow.baml
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\obj\Debug\Scroll_Mah.g.resources
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\obj\Debug\Scroll_Mah.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\obj\Debug\Scroll_Mah.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\obj\Debug\Scroll_Mah.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\obj\Debug\Scroll_Mah.exe
+C:\Users\Acer\OneDrive\Desktop\Scroll_Mah\obj\Debug\Scroll_Mah.pdb
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\bin\Debug\Scroll_Mah.exe.config
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\bin\Debug\Scroll_Mah.exe
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\bin\Debug\Scroll_Mah.pdb
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\obj\Debug\Scroll_Mah.csproj.AssemblyReference.cache
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\obj\Debug\MainWindow.g.cs
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\obj\Debug\App.g.cs
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\obj\Debug\Scroll_Mah_MarkupCompile.cache
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\obj\Debug\Scroll_Mah_MarkupCompile.lref
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\obj\Debug\MainWindow.baml
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\obj\Debug\Scroll_Mah.g.resources
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\obj\Debug\Scroll_Mah.Properties.Resources.resources
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\obj\Debug\Scroll_Mah.csproj.GenerateResource.cache
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\obj\Debug\Scroll_Mah.csproj.CoreCompileInputs.cache
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\obj\Debug\Scroll_Mah.exe
+C:\Users\Robok\Maksim\Cods\Cods\.vscode\WPF C#\Serega\obj\Debug\Scroll_Mah.pdb
